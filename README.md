@@ -29,4 +29,5 @@ A simple command-line program written in **C** to manage student records. You ca
 ![image](https://github.com/user-attachments/assets/826efb56-40f3-45a1-9241-1a0414a3c973)
 ![image](https://github.com/user-attachments/assets/52eb41eb-79eb-4e9a-8558-af9ea1990aff)
 
+© 2024 Vansh111000. All rights reserved.
 
