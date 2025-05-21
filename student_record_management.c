@@ -4,7 +4,6 @@
 
 #define FILENAME "student_records.txt"
 
-//h
 
 struct Student {
     int rollNo;
